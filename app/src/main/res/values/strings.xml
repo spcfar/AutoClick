@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AutoClick</string>
+    <string name="accessibility_service_description">开启自动点击功能。</string>
+</resources>
